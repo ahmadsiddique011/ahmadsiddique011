@@ -6,8 +6,6 @@
 - 👋 Hi, I’m @ahmadsiddique011
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ahmadsiddique011/ahmadsiddique011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
