@@ -6,9 +6,6 @@
 - 👋 Hi, I’m @ahmadsiddique011
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning python
-
-<br />
-  
 - 💼 any freelance work? do reach, [email](ahmadsiddique011@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
