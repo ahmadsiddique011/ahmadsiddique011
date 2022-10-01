@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/ahmad_siddique_/">
   <img align="left" alt="Ahmad's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/AhmadSiddique/">
+<a href="https://www.linkedin.com/in/ahmad-siddique-a02448214/">
   <img align="left" alt="Ahmad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="[https://twitter.com/abhisheknaiidu](https://twitter.com/Ahmad_siddique_)">
